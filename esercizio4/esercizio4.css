@@ -1,0 +1,49 @@
+header{
+    background-color:darkblue;
+}
+main{
+    background-color:#ffffff;
+}
+footer{
+    background-color: darkkhaki;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color: black;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 50px;
+    text-align: center;
+    color:#ffffff;
+    
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: left;
+    color: darkkhaki;
+}
+img{
+    border: 5px solid darkblue;
+    margin: 5px;
+    padding: 3px;
+}
+a{
+    color: #ffffff;
+}
+a:hover{
+    color: darkkhaki;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    color: black;
+}
+.gallery {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}

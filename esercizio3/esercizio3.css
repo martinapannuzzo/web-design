@@ -1,0 +1,11 @@
+body {
+    background-color: blanchedalmond;
+}
+h1 { 
+font-size: 32px;
+}
+p {
+    text-align: justify;
+    font-size: 14px;
+    line-height: 1.5;
+}
